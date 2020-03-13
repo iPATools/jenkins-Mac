@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.37.100.41:8888/ipa/GearBest_Debug_5.4.0_1579006520.ipa</string>
+					<string>http://10.37.100.41:8888/ipa/GearBest_Debug_5.6.0_1584066012.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.xxxxxxxxxx.identifier</string>
 				<key>bundle-version</key>
-				<string>5.4.0</string>
+				<string>5.6.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>releaseNotes</key>
